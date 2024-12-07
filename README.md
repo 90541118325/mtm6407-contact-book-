@@ -45,3 +45,13 @@ This is a simple *Contact Book* web application built using *Vue 3, **Vue Router
    ```bash
    git clone https://github.com/<your-username>/contact-book.git
    cd contact-book
+
+
+
+
+## Output:
+
+<img src="output images/Screenshot 2024-12-07 122203.png" alt="Starting Page">
+<img src="output images/Screenshot 2024-12-07 122214.png" alt="Add New Contact">
+<img src="output images/Screenshot 2024-12-07 122254.png" alt="New Contact Added">
+<img src="output images/Screenshot 2024-12-07 122307.png" alt="Edit Contact">
